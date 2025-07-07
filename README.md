@@ -1,6 +1,6 @@
 # Employee Payroll System
 
-## Short Description
+## Description
 - Developed a system to calculate and manage employee salaries, including overtime bonuses and employee tracking. 
 - Utilized OOP principles such as classes, inheritance, and encapsulation to create a modular, maintainable payroll system using a singly linked list for employee data management.
   
